@@ -37,7 +37,7 @@ A modern, responsive web application that allows users to convert multiple image
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/image-to-pdf-converter.git
+   git clone https://github.com/Theo-Valembrun/image-to-pdf-converter.git
    ```
 
 2. Open `index.html` in your web browser
@@ -54,7 +54,7 @@ A modern, responsive web application that allows users to convert multiple image
 
 ## 🌐 Live Demo
 
-[View Live Demo](https://yourusername.github.io/image-to-pdf-converter/)
+[View Live Demo](https://theo-valembrun.github.io/image-to-pdf-converter/)
 
 ## 📝 License
 
