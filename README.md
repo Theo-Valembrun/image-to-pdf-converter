@@ -60,7 +60,19 @@ A modern, responsive web application that allows users to convert multiple image
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🤝 Contributing
+## � AI Assistance Disclosure
+
+This project was developed with assistance from **GitHub Copilot**, an AI-powered coding assistant. The AI helped with:
+
+- ✨ Code structure and implementation
+- 🎨 UI/UX design patterns and styling
+- 📚 Documentation and comprehensive comments
+- ♿ Accessibility features and best practices
+- 🛠️ Modern web development techniques
+
+While AI assistance was used in the development process, all creative decisions, project vision, feature specifications, and final implementation choices were made by the human developer. The AI served as a coding assistant to help implement the desired functionality more efficiently.
+
+## �🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
@@ -70,4 +82,4 @@ For questions or suggestions, please open an issue on GitHub.
 
 ---
 
-Made with ❤️ for easy image to PDF conversion
+Made with ❤️ and 🤖 for easy image to PDF conversion
