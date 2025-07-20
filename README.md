@@ -35,14 +35,29 @@ A modern, responsive web application that allows users to convert multiple image
 
 ## 🚀 Getting Started
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Theo-Valembrun/image-to-pdf-converter.git
-   ```
+### Option 1: Download and Run Locally
+1. **Download the app:**
+   - Go to [index.html](https://github.com/Theo-Valembrun/image-to-pdf-converter/blob/main/index.html)
+   - Click the **"Raw"** button
+   - Save the file (Ctrl+S or Cmd+S) to your computer
+   
+2. **Run the app:**
+   - Double-click the saved `index.html` file
+   - It will open in your default browser
+   - Start converting images to PDF!
 
-2. Open `index.html` in your web browser
+### Option 2: Clone Repository
+```bash
+git clone https://github.com/Theo-Valembrun/image-to-pdf-converter.git
+cd image-to-pdf-converter
+# Open index.html in your browser
+```
 
-3. Start converting images to PDF!
+### Option 3: Direct Download
+- [**Download ZIP**](https://github.com/Theo-Valembrun/image-to-pdf-converter/archive/refs/heads/main.zip)
+- Extract and open `index.html`
+
+> **Note:** This app works entirely in your browser - no server or internet connection required after download!
 
 ## 📖 How to Use
 
@@ -52,9 +67,20 @@ A modern, responsive web application that allows users to convert multiple image
 4. **Convert**: Click "Convert to PDF" to generate and download your PDF
 5. **Theme Toggle**: Use the moon/sun button to switch between light and dark modes
 
-## 🌐 Live Demo
+## 🌐 Try It Now
 
-[View Live Demo](https://theo-valembrun.github.io/image-to-pdf-converter/)
+### � **Direct Links:**
+- **[📥 Download App](https://raw.githubusercontent.com/Theo-Valembrun/image-to-pdf-converter/main/index.html)** *(Right-click → Save As)*
+- **[📦 Download ZIP](https://github.com/Theo-Valembrun/image-to-pdf-converter/archive/refs/heads/main.zip)**
+- **[👀 View Source](https://github.com/Theo-Valembrun/image-to-pdf-converter/blob/main/index.html)**
+
+### 💡 **Quick Start:**
+1. Click the download link above
+2. Save `index.html` to your computer  
+3. Double-click to open in browser
+4. Start converting images! 🎉
+
+*Works offline - no internet needed after download!*
 
 ## 📝 License
 
